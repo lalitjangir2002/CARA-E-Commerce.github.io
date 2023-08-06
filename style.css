@@ -569,7 +569,7 @@ footer .copyright{
 #ban-er {
     width: 100%;
     height: 45vh;
-    background: url('/img/banner/b1.jpg') center/cover no-repeat;
+    background: url('./img/banner/b1.jpg') center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
